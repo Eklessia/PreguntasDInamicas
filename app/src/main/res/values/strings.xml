@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PreguntasDinamicas</string>
+    <string name="question_test">Pregunta</string>
+    <string name="category_test">Categoría: </string>
+    <string name="difficulty_test">Dificultad: </string>
+    <string name="radio_option_01">Opción 1</string>
+    <string name="radio_option_02">Opción 2</string>
+</resources>
